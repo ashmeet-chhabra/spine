@@ -104,6 +104,5 @@ The voice recorder streams audio in 500ms chunks to Backboard's realtime transcr
 
 ## Future
 
-- Figma MCP bridge for design token and component spec ingestion
 - Automated visual auditing using Backboard Vision support
 - Semantic code indexing with Backboard Document Embeddings for RAG-powered context in large monorepos
