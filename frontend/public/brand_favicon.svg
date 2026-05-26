@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <!-- SPINE Unified Brand Favicon -->
+  <rect width="32" height="32" rx="8" fill="#00051B" />
+  <!-- The SPINE "S" mark in brand blue -->
+  <path d="M10 8 H22 L18 16 L22 24 H10 L14 16 Z" fill="#007BFC" />
+  <!-- Minimalist accent -->
+  <circle cx="16" cy="16" r="2" fill="#FFFFFF" opacity="0.8" />
+</svg>
